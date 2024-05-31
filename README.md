@@ -1,6 +1,6 @@
 <div align="center">
      <h1 align="center">Bank Record Manager</h1>
-     <img src="https://github.com/abhinav2369/Python-Bank-Record-Manager-cli/assets/170245635/70879255-77de-4444-961c-b7a16fc02514" height=90px width=90px/>
+     <img src="https://github.com/abhinav2369/Python-Bank-Record-Manager-cli/assets/170245635/373a7561-9445-42ee-8200-5958baea1156" height=90px width=90px/>
      <br/>
      <br/>
      <img alt="Static Badge" src="https://img.shields.io/badge/Python-7F00FF?style=for-the-badge">
@@ -47,7 +47,8 @@
 
 ## Overview 🚀
 
-- A simple Bank Record manager CLI based program.
+- A simple Bank Record manager CLI based program, it take the use of **pickle** module.
+- It works on **Binary File** for storing and retrieving data.
 - It can perform following operations:
     1. Create
     2. Display
@@ -74,7 +75,7 @@
 ![image](https://github.com/abhinav2369/Python-Bank-Record-Manager-cli/assets/170245635/81e51be9-d2d9-4c4b-98fb-2764fc5eb1dc)
 
 
-### ➡️ 2. Display & 3. Search
+### ➡️ 2. Display  &  3. Search
 ![image](https://github.com/abhinav2369/Python-Bank-Record-Manager-cli/assets/170245635/1458d4f5-b224-499b-a64a-8f56c9a39f82)
 
 
