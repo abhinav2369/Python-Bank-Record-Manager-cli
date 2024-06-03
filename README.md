@@ -1,6 +1,6 @@
 <div align="center">
      <h1 align="center">Bank Record Manager</h1>
-     <img src="https://github.com/abhinav2369/Python-Bank-Record-Manager-cli/assets/170245635/373a7561-9445-42ee-8200-5958baea1156" height=90px width=90px/>
+     <img src="https://github.com/abhinavkumar2369/Python-Bank-Record-Manager-cli/assets/170245635/37be2ad1-2242-41b4-bc58-f4d3d32cd411" height=90px width=90px/>
      <br/>
      <br/>
      <img alt="Static Badge" src="https://img.shields.io/badge/Python-7F00FF?style=for-the-badge">
@@ -21,24 +21,24 @@
      <!-- --------------------------------------------- -->
      <br/>
      <!-- License -->
-     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinav2369/Python-Bank-Record-Manager-cli">
+     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinavkumar2369/Python-Bank-Record-Manager-cli">
      <br/>
      <!-- Commit Count -->
-     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinav2369/Python-Bank-Record-Manager-cli/main">
+     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinavkumar2369/Python-Bank-Record-Manager-cli/main">
      <!-- Repo Size -->
-     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinav2369/Python-Bank-Record-Manager-cli?style=flat&color=orange">
+     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinavkumar2369/Python-Bank-Record-Manager-cli?style=flat&color=orange">
      <!-- Repo Code -->
-     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinav2369/Python-Bank-Record-Manager-cli">
+     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinavkumar2369/Python-Bank-Record-Manager-cli">
      <br/>
-     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinav2369/Python-Bank-Record-Manager-cli?style=flat&color=orange">
+     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinavkumar2369/Python-Bank-Record-Manager-cli?style=flat&color=orange">
      <!-- Language Count -->
-     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinav2369/Python-Bank-Record-Manager-cli">
+     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinavkumar2369/Python-Bank-Record-Manager-cli">
      <!-- Watchers -->
-     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinav2369/Python-Bank-Record-Manager-cli?style=flat">
+     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinavkumar2369/Python-Bank-Record-Manager-cli?style=flat">
      <!-- Forks -->
-     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinav2369/Python-Bank-Record-Manager-cli?style=flat&color=orange">
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinavkumar2369/Python-Bank-Record-Manager-cli?style=flat&color=orange">
      <br/>
-     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinav2369/Python-Bank-Record-Manager-cli">
+     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinavkumar2369/Python-Bank-Record-Manager-cli">
 </div>
 
 
@@ -72,23 +72,23 @@
 ## Screenshot 🖼️
 
 ### ➡️ 1. Create
-![image](https://github.com/abhinav2369/Python-Bank-Record-Manager-cli/assets/170245635/81e51be9-d2d9-4c4b-98fb-2764fc5eb1dc)
+![Image](https://github.com/abhinavkumar2369/Python-Bank-Record-Manager-cli/assets/170245635/63923c51-2425-4489-ae37-4046b96e9526)
 
 
 ### ➡️ 2. Display  &  3. Search
-![image](https://github.com/abhinav2369/Python-Bank-Record-Manager-cli/assets/170245635/1458d4f5-b224-499b-a64a-8f56c9a39f82)
+![Image](https://github.com/abhinavkumar2369/Python-Bank-Record-Manager-cli/assets/170245635/5314e181-0b13-4dab-b807-7f5d3f743e6c)
 
 
-### ➡️ 4. Modify & Search
-![image](https://github.com/abhinav2369/Python-Bank-Record-Manager-cli/assets/170245635/182d50d6-ebfb-416a-ab4a-25e41f1c86b4)
+### ➡️ 4. Modify & Display
+![Image](https://github.com/abhinavkumar2369/Python-Bank-Record-Manager-cli/assets/170245635/5fe349df-2b57-4a4f-b8ff-913125331f6a)
 
 
-### ➡️ 5. Delete & Search
-![image](https://github.com/abhinav2369/Python-Bank-Record-Manager-cli/assets/170245635/e0b17236-13d2-4acb-86c3-eceba18be91e)
+### ➡️ 5. Delete & Display
+![Image](https://github.com/abhinavkumar2369/Python-Bank-Record-Manager-cli/assets/170245635/d0c13ec0-2b8c-44b9-9952-fef5e24b9ef4)
 
 
-### ➡️ 6. Append & Search
-![image](https://github.com/abhinav2369/Python-Bank-Record-Manager-cli/assets/170245635/8383ec4c-ae30-494f-8b45-023049f3f6ad)
+### ➡️ 6. Append & Display
+![Image](https://github.com/abhinavkumar2369/Python-Bank-Record-Manager-cli/assets/170245635/b59c0256-f074-42d3-b852-698615a034ec)
 
 
 <!------------------------------------------------->
